@@ -9,8 +9,8 @@
 
 <channel>
 	<title>dono &#8211; dono</title>
-	<atom:link href="/author/dono/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://localhost/ActividadesProgramacion/dono/author/dono/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/ActividadesProgramacion/dono</link>
 	<description>Restaurante de lo mas top</description>
 	<lastBuildDate>Fri, 20 Aug 2021 08:52:22 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,17 +21,17 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>¡Hola, mundo!</title>
-		<link>/hola-mundo/</link>
-					<comments>/hola-mundo/#comments</comments>
+		<link>http://localhost/ActividadesProgramacion/dono/hola-mundo/</link>
+					<comments>http://localhost/ActividadesProgramacion/dono/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[dono]]></dc:creator>
 		<pubDate>Fri, 20 Aug 2021 08:52:22 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://localhost/ActividadesProgramacion/dono/?p=1</guid>
 
 					<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!]]></description>
 		
-					<wfw:commentRss>/hola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>http://localhost/ActividadesProgramacion/dono/hola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
